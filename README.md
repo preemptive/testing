@@ -1,16 +1,9 @@
 # testing
 
-Hello
+> **This repository has moved to a new public location.**
 
-## Subtitle
+The source code for this project is now maintained at:
 
- 
- ## Adding Styles
-*This text will be italic*
-_This will also be italic_
+## [https://github.com/sembi-oss/testing](https://github.com/sembi-oss/testing)
 
-**This text will be bold**
-__This will also be bold__
- 
- Add more text
-
+Please update your bookmarks, forks, and any references to point to the new address.
